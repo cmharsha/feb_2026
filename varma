@@ -1,0 +1,8 @@
+It looks like you're referring to git init (just spelled as one word)!
+
+git init is one of the very first commands you use when working with Git. It stands for "Git initialize", and its sole job is to turn a normal, everyday folder on your computer into a brand new Git repository.
+
+Here is a quick breakdown of what it actually does and how to use it.
+
+What happens when you run it?
+When you open your terminal, navigate to a project folder, and type:
